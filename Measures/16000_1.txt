@@ -1,0 +1,104 @@
+BubbleSort - Ordenado (primeiros 10 elementos): [ 3  3  3  5  8 10 17 18 24 24]
+Comparações para vetor ordenado: 127992000
+Trocas para vetor ordenado: 0
+Tempo de execução para vetor ordenado: 36.563274 segundos
+
+BucketSort - Ordenado (primeiros 10 elementos): [3, 3, 3, 5, 8, 10, 17, 18, 24, 24]
+Comparações para vetor ordenado: 28823
+Trocas para vetor ordenado: 0
+Tempo de execução para vetor ordenado: 0.016093 segundos
+
+HeapSort - Ordenado (primeiros 10 elementos): [ 3  3  3  5  8 10 17 18 24 24]
+Comparações para vetor ordenado: 410882
+Trocas para vetor ordenado: 219964
+Tempo de execução para vetor ordenado: 0.293793 segundos
+
+InsertionSort - Ordenado (primeiros 10 elementos): [ 3  3  3  5  8 10 17 18 24 24]
+Comparações para vetor ordenado: 15999
+Trocas para vetor ordenado: 0
+Tempo de execução para vetor ordenado: 0.007994 segundos
+
+MergeSort - Ordenado (primeiros 10 elementos): [ 3  3  3  5  8 10 17 18 24 24]
+Comparações para vetor ordenado: 111516
+Trocas para vetor ordenado: 111516
+Tempo de execução para vetor ordenado: 0.129545 segundos
+
+QuickSort - Ordenado (primeiros 10 elementos): [ 3  3  3  5  8 10 17 18 24 24]
+Comparações para vetor ordenado: 118451662
+Trocas para vetor ordenado: 118465247
+Tempo de execução para vetor ordenado: 87.403310 segundos
+
+SelectionSort - Ordenado (primeiros 10 elementos): [ 3  3  3  5  8 10 17 18 24 24]
+Comparações para vetor ordenado: 127992000
+Trocas para vetor ordenado: 16000
+Tempo de execução para vetor ordenado: 30.455613 segundos
+
+BubbleSort - Inversamente Ordenado (primeiros 10 elementos): [ 3  8 26 53 60 61 75 75 83 89]
+Comparações para vetor inversamente ordenado: 127992000
+Trocas para vetor inversamente ordenado: 127990784
+Tempo de execução para vetor inversamente ordenado: 88.891358 segundos
+
+BucketSort - Inversamente Ordenado (primeiros 10 elementos): [3, 8, 26, 53, 60, 61, 75, 75, 83, 89]
+Comparações para vetor inversamente ordenado: 55839
+Trocas para vetor inversamente ordenado: 38677
+Tempo de execução para vetor inversamente ordenado: 0.024090 segundos
+
+HeapSort - Inversamente Ordenado (primeiros 10 elementos): [ 3  8 26 53 60 61 75 75 83 89]
+Comparações para vetor inversamente ordenado: 384334
+Trocas para vetor inversamente ordenado: 197826
+Tempo de execução para vetor inversamente ordenado: 0.272806 segundos
+
+InsertionSort - Inversamente Ordenado (primeiros 10 elementos): [ 3  8 26 53 60 61 75 75 83 89]
+Comparações para vetor inversamente ordenado: 127991946
+Trocas para vetor inversamente ordenado: 127990784
+Tempo de execução para vetor inversamente ordenado: 55.515772 segundos
+
+MergeSort - Inversamente Ordenado (primeiros 10 elementos): [3 3 3 3 3 3 3 3 3 3]
+Comparações para vetor inversamente ordenado: 112704
+Trocas para vetor inversamente ordenado: 112704
+Tempo de execução para vetor inversamente ordenado: 0.129013 segundos
+
+QuickSort - Inversamente Ordenado (primeiros 10 elementos): [ 3  8 26 53 60 61 75 75 83 89]
+Comparações para vetor inversamente ordenado: 123221465
+Trocas para vetor inversamente ordenado: 61621695
+Tempo de execução para vetor inversamente ordenado: 59.843048 segundos
+
+SelectionSort - Inversamente Ordenado (primeiros 10 elementos): [ 3  8 26 53 60 61 75 75 83 89]
+Comparações para vetor inversamente ordenado: 127992000
+Trocas para vetor inversamente ordenado: 16000
+Tempo de execução para vetor inversamente ordenado: 33.314884 segundos
+
+BubbleSort - Aleatório (primeiros 10 elementos): [ 9 10 12 16 20 20 30 59 62 91]
+Comparações para vetor aleatório: 127992000
+Trocas para vetor aleatório: 64161135
+Tempo de execução para vetor aleatório: 64.269905 segundos
+
+BucketSort - Aleatório (primeiros 10 elementos): [9, 10, 12, 16, 20, 20, 30, 59, 62, 91]
+Comparações para vetor aleatório: 44310
+Trocas para vetor aleatório: 19160
+Tempo de execução para vetor aleatório: 0.020090 segundos
+
+HeapSort - Aleatório (primeiros 10 elementos): [ 9 10 12 16 20 20 30 59 62 91]
+Comparações para vetor aleatório: 397938
+Trocas para vetor aleatório: 209436
+Tempo de execução para vetor aleatório: 0.308782 segundos
+
+InsertionSort - Aleatório (primeiros 10 elementos): [ 9 10 12 16 20 20 30 59 62 91]
+Comparações para vetor aleatório: 64177123
+Trocas para vetor aleatório: 64161135
+Tempo de execução para vetor aleatório: 28.228970 segundos
+
+MergeSort - Aleatório (primeiros 10 elementos): [9 9 9 9 9 9 9 9 9 9]
+Comparações para vetor aleatório: 154100
+Trocas para vetor aleatório: 154100
+Tempo de execução para vetor aleatório: 0.151968 segundos
+
+QuickSort - Aleatório (primeiros 10 elementos): [ 9 10 12 16 20 20 30 59 62 91]
+Comparações para vetor aleatório: 277145
+Trocas para vetor aleatório: 153199
+Tempo de execução para vetor aleatório: 0.159886 segundos
+
+SelectionSort - Aleatório (primeiros 10 elementos): [ 9 10 12 16 20 20 30 59 62 91]
+Comparações para vetor aleatório: 127992000
+Trocas para vetor aleatório: 16000
+Tempo de execução para vetor aleatório: 33.455002 segundos
